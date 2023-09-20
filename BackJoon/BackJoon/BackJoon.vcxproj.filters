@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="BFS,DFS">
+      <UniqueIdentifier>{7ac5bb04-b067-4374-bf70-bf82dbf7e97d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2178 미로찾기.cpp">
+      <Filter>BFS,DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1260 DFS와 BFS.cpp">
+      <Filter>BFS,DFS</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
