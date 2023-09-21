@@ -4,6 +4,9 @@
     <Filter Include="BFS,DFS">
       <UniqueIdentifier>{7ac5bb04-b067-4374-bf70-bf82dbf7e97d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="구현 문제">
+      <UniqueIdentifier>{6c42d5c7-2622-4796-b104-5cae148aea9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2178 미로찾기.cpp">
@@ -20,6 +23,9 @@
     </ClCompile>
     <ClCompile Include="2667 단지번호붙이기.cpp">
       <Filter>BFS,DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1009 분산처리.cpp">
+      <Filter>구현 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
