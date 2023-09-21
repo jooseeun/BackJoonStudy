@@ -15,5 +15,8 @@
     <ClCompile Include="2206 벽 부수고 이동하기.cpp">
       <Filter>BFS,DFS</Filter>
     </ClCompile>
+    <ClCompile Include="1260 DFS와 BFS - vector구현.cpp">
+      <Filter>BFS,DFS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
