@@ -30,5 +30,8 @@
     <ClCompile Include="4963 섬의 개수.cpp">
       <Filter>BFS,DFS</Filter>
     </ClCompile>
+    <ClCompile Include="1987 알파벳.cpp">
+      <Filter>BFS,DFS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
