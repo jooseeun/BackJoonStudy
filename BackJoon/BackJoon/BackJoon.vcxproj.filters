@@ -33,5 +33,8 @@
     <ClCompile Include="1987 알파벳.cpp">
       <Filter>BFS,DFS</Filter>
     </ClCompile>
+    <ClCompile Include="10026 적록색약.cpp">
+      <Filter>BFS,DFS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
