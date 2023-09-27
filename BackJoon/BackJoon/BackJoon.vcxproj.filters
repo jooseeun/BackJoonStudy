@@ -7,6 +7,9 @@
     <Filter Include="구현 문제">
       <UniqueIdentifier>{6c42d5c7-2622-4796-b104-5cae148aea9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="이진 탐색">
+      <UniqueIdentifier>{dc9a91a5-c184-4cd8-bfb6-df95a8166775}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2178 미로찾기.cpp">
@@ -35,6 +38,9 @@
     </ClCompile>
     <ClCompile Include="10026 적록색약.cpp">
       <Filter>BFS,DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1920 수찾기.cpp">
+      <Filter>이진 탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
