@@ -45,5 +45,8 @@
     <ClCompile Include="2805 나무자르기.cpp">
       <Filter>이진 탐색</Filter>
     </ClCompile>
+    <ClCompile Include="1654 랜선 자르기.cpp">
+      <Filter>이진 탐색</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
