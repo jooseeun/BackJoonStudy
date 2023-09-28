@@ -48,5 +48,11 @@
     <ClCompile Include="1654 랜선 자르기.cpp">
       <Filter>이진 탐색</Filter>
     </ClCompile>
+    <ClCompile Include="2613 숫자구슬.cpp">
+      <Filter>이진 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1110번 더하기 사이클.cpp">
+      <Filter>이진 탐색</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
