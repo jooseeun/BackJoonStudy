@@ -52,6 +52,9 @@
       <Filter>이진 탐색</Filter>
     </ClCompile>
     <ClCompile Include="1110번 더하기 사이클.cpp">
+      <Filter>구현 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3079 입국심사.cpp">
       <Filter>이진 탐색</Filter>
     </ClCompile>
   </ItemGroup>
