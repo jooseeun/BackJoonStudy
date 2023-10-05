@@ -10,6 +10,9 @@
     <Filter Include="이진 탐색">
       <UniqueIdentifier>{dc9a91a5-c184-4cd8-bfb6-df95a8166775}</UniqueIdentifier>
     </Filter>
+    <Filter Include="DP">
+      <UniqueIdentifier>{27070837-5188-4a2a-860a-2124cbc07711}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2178 미로찾기.cpp">
@@ -56,6 +59,15 @@
     </ClCompile>
     <ClCompile Include="3079 입국심사.cpp">
       <Filter>이진 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1939 중량제한.cpp">
+      <Filter>이진 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="6209 제자리 멀리뛰기.cpp">
+      <Filter>이진 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="9465 스티커.cpp">
+      <Filter>DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
