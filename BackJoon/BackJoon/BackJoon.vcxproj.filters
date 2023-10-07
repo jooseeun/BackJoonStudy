@@ -69,5 +69,8 @@
     <ClCompile Include="9465 스티커.cpp">
       <Filter>DP</Filter>
     </ClCompile>
+    <ClCompile Include="1149 RGB 거리.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
