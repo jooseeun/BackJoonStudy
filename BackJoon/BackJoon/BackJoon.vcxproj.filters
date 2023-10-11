@@ -78,5 +78,8 @@
     <ClCompile Include="11055 가장 큰 증가하는 부분 수열.cpp">
       <Filter>DP</Filter>
     </ClCompile>
+    <ClCompile Include="1912 연속합.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
