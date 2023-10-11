@@ -81,5 +81,8 @@
     <ClCompile Include="1912 연속합.cpp">
       <Filter>DP</Filter>
     </ClCompile>
+    <ClCompile Include="9251 LCS.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
