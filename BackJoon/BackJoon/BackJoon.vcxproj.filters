@@ -13,6 +13,12 @@
     <Filter Include="DP">
       <UniqueIdentifier>{27070837-5188-4a2a-860a-2124cbc07711}</UniqueIdentifier>
     </Filter>
+    <Filter Include="스택">
+      <UniqueIdentifier>{63a9f346-0a56-4634-810b-d97fd750cd79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="다익스트라">
+      <UniqueIdentifier>{34bb3dd6-6b7b-4988-9ec5-4964008312a4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2178 미로찾기.cpp">
@@ -83,6 +89,9 @@
     </ClCompile>
     <ClCompile Include="9251 LCS.cpp">
       <Filter>DP</Filter>
+    </ClCompile>
+    <ClCompile Include="10773 제로.cpp">
+      <Filter>스택</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
