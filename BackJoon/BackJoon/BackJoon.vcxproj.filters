@@ -99,5 +99,8 @@
     <ClCompile Include="2293 동전1.cpp">
       <Filter>DP</Filter>
     </ClCompile>
+    <ClCompile Include="1753 최단경로.cpp">
+      <Filter>다익스트라</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

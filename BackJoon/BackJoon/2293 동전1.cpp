@@ -2,9 +2,7 @@
 #include <vector>
 
 using namespace std;
-
-int n, k;
-int coin[100];
+int n, k;int coin[100];
 int dp[10001];
 int count_;
 int main()
