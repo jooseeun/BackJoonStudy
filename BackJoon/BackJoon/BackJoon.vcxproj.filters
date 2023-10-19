@@ -102,5 +102,8 @@
     <ClCompile Include="1753 최단경로.cpp">
       <Filter>다익스트라</Filter>
     </ClCompile>
+    <ClCompile Include="1916 최소비용 구하기.cpp">
+      <Filter>다익스트라</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
