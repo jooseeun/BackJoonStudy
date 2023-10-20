@@ -19,6 +19,9 @@
     <Filter Include="다익스트라">
       <UniqueIdentifier>{34bb3dd6-6b7b-4988-9ec5-4964008312a4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="그리디">
+      <UniqueIdentifier>{a9e243c5-a501-4799-a511-cde0a99ef2b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2178 미로찾기.cpp">
@@ -104,6 +107,15 @@
     </ClCompile>
     <ClCompile Include="1916 최소비용 구하기.cpp">
       <Filter>다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="1238 파티.cpp">
+      <Filter>다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="11047 동전0.cpp">
+      <Filter>그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="4796 캠핑.cpp">
+      <Filter>그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
