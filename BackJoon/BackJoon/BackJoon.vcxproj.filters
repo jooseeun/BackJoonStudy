@@ -117,5 +117,8 @@
     <ClCompile Include="4796 캠핑.cpp">
       <Filter>그리디</Filter>
     </ClCompile>
+    <ClCompile Include="1032 명령 프롬프트.cpp">
+      <Filter>구현 문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
