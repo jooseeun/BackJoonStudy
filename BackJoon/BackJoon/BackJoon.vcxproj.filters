@@ -129,5 +129,8 @@
     <ClCompile Include="10808 알파벳 개수.cpp">
       <Filter>1주차 - 문자열,누적합,구현</Filter>
     </ClCompile>
+    <ClCompile Include="2979 트럭 주차.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
