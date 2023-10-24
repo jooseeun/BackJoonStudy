@@ -132,5 +132,8 @@
     <ClCompile Include="2979 트럭 주차.cpp">
       <Filter>1주차 - 문자열,누적합,구현</Filter>
     </ClCompile>
+    <ClCompile Include="10988 팰린드롬인지 확인하기.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
