@@ -144,5 +144,8 @@
     <ClCompile Include="9996 한국이 그리울 땐 서버에 접속하지.cpp">
       <Filter>1주차 - 문자열,누적합,구현</Filter>
     </ClCompile>
+    <ClCompile Include="1620 나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
