@@ -150,5 +150,11 @@
     <ClCompile Include="2559 수열.cpp">
       <Filter>1주차 - 문자열,누적합,구현</Filter>
     </ClCompile>
+    <ClCompile Include="9375 패션왕 신해빈.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬 만들기.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
