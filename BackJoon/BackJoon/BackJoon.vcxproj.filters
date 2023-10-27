@@ -159,5 +159,8 @@
     <ClCompile Include="1940 주몽.cpp">
       <Filter>1주차 - 문자열,누적합,구현</Filter>
     </ClCompile>
+    <ClCompile Include="3986 좋은단어.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
