@@ -165,5 +165,8 @@
     <ClCompile Include="1629 곱셈.cpp">
       <Filter>1주차 - 문자열,누적합,구현</Filter>
     </ClCompile>
+    <ClCompile Include="4375 1.cpp">
+      <Filter>1주차 - 문자열,누적합,구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
